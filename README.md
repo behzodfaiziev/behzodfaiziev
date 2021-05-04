@@ -1,4 +1,5 @@
-### Hi there, I'm Behzodjon Faiziev 👋
+## Hi there, I'm Behzodjon Faiziev 👋
+### I'm student at Yildiz Technical University [<img align="left" alt="Behzodjon | LinkedIn" width="28px" src="https://www.yildiz.edu.tr/images/files/ytulogopng.png" />](https://www.yildiz.edu.tr/en/)
 - 🔭 I’m currently working on Flutter and Node.js
 - 🌱 I’m currently learning NodeJS/Express/MongoDB/Angular
 - 💬 Ask me about Flutter/Dart/Node/Express
