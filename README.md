@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Flutter and Node.js
 - 🌱 I’m currently learning NodeJS/Express/MongoDB/Angular
 - 💬 Ask me about Flutter/Dart/Node/MongoDB and Electronics/Arduino/
-- 📌 Target: Robotic enginner(Electionics/Mechatronics/Programming)...
+- 📌 Target: Robotic engineer(Electionics/Mechatronics/Programming)...
 
 ### 📫 Connect with me
 [<img align="left" alt="Behzodjon | LinkedIn" width="28px" src="https://static.tildacdn.com/tild3662-3462-4466-b730-386233346239/linkedin.png" />](https://www.linkedin.com/in/behzod-faiziev/)
