@@ -10,7 +10,7 @@
 [<img align="left" alt="Behzodjon | Facebook" width="28px" src="https://images.vexels.com/media/users/3/137253/isolated/preview/90dd9f12fdd1eefb8c8976903944c026-facebook-icon-logo-by-vexels.png" />](https://www.facebook.com/behzodjon.faiziev.7/)
 [<img align="left" alt="Behzodjon | Twitter" width="28px" src="https://assets3.insales.ru/assets/1/2236/1509564/1617713856/ft_icons_2_4.png" />](https://twitter.com/MrBiLLionaiRe17)
 
-[<img align="left" alt="Behzodjon | Instagram" width="28px" src="https://pbs.twimg.com/media/DkeadI9XgAAGeWK.png" />](https://www.instagram.com/8__billionaire__8//)
+[<img align="left" alt="Behzodjon | Instagram" width="28px" src="https://pbs.twimg.com/media/DkeadI9XgAAGeWK.png" />](https://www.instagram.com/8__billionaire__8/)
 
 <br />
 <br />
