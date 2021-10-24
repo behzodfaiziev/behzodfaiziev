@@ -1,4 +1,4 @@
-## Hi there, I'm Behzodjon Faiziev 👋
+## Hi there, I'm Behzod Faiziev 👋
 
 - 🎓 I study at Yildiz Technical University, Control And Automation Engineering Department.
 - 🔭 I’m currently working on Flutter and Node.js
