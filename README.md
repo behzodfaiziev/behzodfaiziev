@@ -1,6 +1,6 @@
 ## Hi there, I'm Behzod Faiziev 👋
-<!-- 
-- 🎓 I study at Yildiz Technical University, Control And Automation Engineering Department.
+
+- 🎓 I study at Yildiz Technical University, Control and Automation Engineering Department.
 - 🔭 I’m currently working on Flutter and Node.js
 - 🌱 I’m currently learning NodeJS/Express/MongoDB
 - 📌 Target: Robotic engineer...
@@ -27,6 +27,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://bitemycoin.com/wp-content/uploads/2018/06/GitHub-Logo.png" />
 
 <br />
-<br /> -->
+<br />
 
 <p>&ensp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behzodfaiziev&layout=compact&hide=html" alt="behzodfaiziev" /></p>
