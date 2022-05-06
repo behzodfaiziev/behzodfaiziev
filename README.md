@@ -20,14 +20,14 @@
 ### Languages and Tools:
 <img align="left" alt="Flutter" width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="left" alt="Dart" width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-<img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Mongodb" width="26px" src="https://www.chainnodes.ro/static/images/technologies/mongo-db-logo-01.png" />
-<img align="left" alt="Arduino" width="26px" src="https://defkey.com/content/images/program/arduino-ide-2021-03-30_03-19-18-icon-resized.png" />
+<img align="left" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico" />
+<img align="left" alt="Mongodb" width="26px" src="https://www.mongodb.com/favicon.ico" />
+<img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/favicon.ico" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
-<img align="left" alt="Git" width="26px" src="https://unimys.com/wp-content/uploads/2020/08/img_5f344009812bb-300x300.png" />
+<img align="left" alt="Git" width="26px" src="https://git-scm.com/favicon.ico" />
 <img align="left" alt="GitHub" width="26px" src="https://bitemycoin.com/wp-content/uploads/2018/06/GitHub-Logo.png" />
-
+<img align="left" alt="Matlab" width="26px" src="https://www.mathworks.com/favicon.ico" />
+<img align="left" alt="Arduino" width="26px" src="https://www.arduino.cc/favicon.ico" />
 <br />
 <br />
 
