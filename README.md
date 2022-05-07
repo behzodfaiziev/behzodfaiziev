@@ -2,7 +2,8 @@
 
 - 🎓 I study at Yildiz Technical University, Control and Automation Engineering Department.
 - 🔭 I’m currently working on Flutter and Node.js
-- 🌱 I’m currently learning NodeJS/Express/MongoDB
+- 🌱 I’m currently learning NodeJS/Express/MongoDB, Matlab
+
 - 📌 Target: Robotic engineer...
 
 ### 📫 Connect with me
