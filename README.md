@@ -37,5 +37,5 @@
 <br />
 <br />
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=behzodfaiziev&theme=dark&background=101010)](https://git.io/streak-stats)
 <!-- <p>&ensp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behzodfaiziev&layout=compact&hide=html" alt="behzodfaiziev" /></p> -->
