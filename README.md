@@ -24,6 +24,8 @@
 <img align="left" alt="Android Studio" width="26px" src="https://i.ya-webdesign.com/images/android-studio-png.png" />
 <img align="left" alt="VS Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico" />
+<img align="left" alt="Click Up" width="26px" src="https://activecollab.com/upload/website-pages/419/clickup-logo.png" />
+
 <img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/favicon.ico" />
 <img align="left" alt="Mongodb" width="26px" src="https://www.mongodb.com/favicon.ico" />
 <img align="left" alt="Unity" width="26px" src="https://www.unity.com/favicon.ico" /> 
