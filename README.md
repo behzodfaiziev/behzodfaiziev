@@ -26,10 +26,11 @@
 <img align="left" alt="VS Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico" />
 <img align="left" alt="Click Up" width="26px" src="https://activecollab.com/upload/website-pages/419/clickup-logo.png" />
-
 <img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/favicon.ico" />
 <img align="left" alt="Mongodb" width="26px" src="https://www.mongodb.com/favicon.ico" />
+<img align="left" alt="Simulink" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" />
 <img align="left" alt="Unity" width="26px" src="https://www.unity.com/favicon.ico" /> 
+
 <br />
 <br />
 
