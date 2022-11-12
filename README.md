@@ -9,12 +9,13 @@
 
 [<img align="left" alt="Behzodjon | stackoverlow" width="28px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />](https://stackoverflow.com/users/13357646/behzod-faiziev)
 
+[<img align="left" alt="Behzodjon | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />](https://twitter.com/behzod_faiziev)
+
 [<img align="left" alt="Behzodjon | buymeacoffee" width="28px" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg" />](https://buymeacoffee.com/behzodfaiziev)
 
 [<img align="left" alt="Behzodjon | Instagram" width="28px" src="https://pbs.twimg.com/media/DkeadI9XgAAGeWK.png" />](https://www.instagram.com/behzod.faiziev/)
 
 [<img align="left" alt="Behzodjon | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />](https://twitter.com/behzod_faiziev)
-
 
 <br />
 <br />
