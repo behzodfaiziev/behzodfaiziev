@@ -9,7 +9,7 @@
 
 [<img align="left" alt="Behzodjon | stackoverlow" width="28px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />](https://stackoverflow.com/users/13357646/behzod-faiziev)
 
-[<img align="left" alt="Behzodjon | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />](https://twitter.com/behzod_faiziev)
+[<img align="left" alt="Behzodjon | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />](https://medium.com/@behzod.faiziev)
 
 [<img align="left" alt="Behzodjon | buymeacoffee" width="28px" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg" />](https://buymeacoffee.com/behzodfaiziev)
 
