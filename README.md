@@ -29,7 +29,6 @@
 <img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/favicon.ico" />
 <img align="left" alt="Mongodb" width="26px" src="https://www.mongodb.com/favicon.ico" />
 <img align="left" alt="Simulink" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" />
-<img align="left" alt="Unity" width="26px" src="https://www.unity.com/favicon.ico" /> 
 
 <br />
 <br />
