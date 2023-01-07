@@ -22,7 +22,7 @@
 
 ### Tools:
 <img align="left" alt="Flutter" width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-<img align="left" alt="Android Studio" width="26px" src="https://i.ya-webdesign.com/images/android-studio-png.png" />
+<img align="left" alt="Android Studio" width="26px" src="https://user-images.githubusercontent.com/63793311/211165236-1fd7fc7e-5a4d-4fb0-b76f-4dba8f823aab.png" />
 <img align="left" alt="VS Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico" />
 <img align="left" alt="Click Up" width="26px" src="https://activecollab.com/upload/website-pages/419/clickup-logo.png" />
