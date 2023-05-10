@@ -1,8 +1,8 @@
 ## Hi there, I'm Behzod Faiziev 👋
 
 - 🎓 I study at Yildiz Technical University, Control and Automation Engineering Department.
-- 🔭 I’m currently working on Flutter and Node.js
-- 🌱 I’m currently learning Kotlin
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Kotlin and NestJS
 - 📌 Target: Robotic engineer...
 ### 📫 Connect with me
 [<img align="left" alt="Behzodjon | LinkedIn" width="28px" src="https://user-images.githubusercontent.com/63793311/224949784-8985216a-7c7f-484b-be2a-2e05d2ee9e04.png" />](https://www.linkedin.com/in/behzod-faiziev/)
@@ -34,6 +34,8 @@
 
 <img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/63793311/224951081-a9e768e8-7daf-47dc-b749-0fadc89ab410.svg" />
 
+<img align="left" alt="NestJS" width="26px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/b80c079e-d2fa-4fe0-8de7-b616f955979b" />
+
 <img align="left" alt="Click Up" width="26px" src="https://user-images.githubusercontent.com/63793311/224952693-32ba46e9-2986-4c07-9fc0-4b3d63d1f12d.png" />
 
 <img align="left" alt="Firebase" width="26px" src="https://user-images.githubusercontent.com/63793311/224953044-7af36273-230f-407d-a963-ef58e3910da5.svg" />
@@ -54,7 +56,11 @@
 
 <img align="left" alt="C-sharp" width="26px" src="https://user-images.githubusercontent.com/63793311/224954278-b53e73c1-a2da-47cc-a205-7fc398415123.png" />
 
+<img align="left" alt="Typescript" width="26px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/824c36d0-9286-4880-9a47-306b2ebce1e5" />
+
 <img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/63793311/224954488-9645a19a-b081-4cd0-ae1f-f768006c9316.png" />
+
+
 
 <br />
 <br />
