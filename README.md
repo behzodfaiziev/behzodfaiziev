@@ -68,4 +68,6 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=behzodfaiziev&theme=dark&background=101010)](https://git.io/streak-stats)
+
+![](https://github-readme-stats.vercel.app/api?username=behzodfaiziev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <!-- <p>&ensp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behzodfaiziev&layout=compact&hide=html" alt="behzodfaiziev" /></p> -->
