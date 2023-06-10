@@ -2,7 +2,7 @@
 
 - 🎓 I study at Yildiz Technical University, Control and Automation Engineering Department.
 - 🔭 I’m currently working on Flutter and NestJS.
-- 📌 I’m currently learning Kotlin, NestJS and MySQL
+- 📌 I’m currently learning NestJS
 ### 📫 Connect with me
 [<img align="left" alt="Behzodjon | LinkedIn" width="28px" src="https://user-images.githubusercontent.com/63793311/224949784-8985216a-7c7f-484b-be2a-2e05d2ee9e04.png" />](https://www.linkedin.com/in/behzod-faiziev/)
 
