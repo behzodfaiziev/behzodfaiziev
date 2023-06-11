@@ -1,6 +1,7 @@
 ## Hi there, I'm Behzod Faiziev 👋
 
 - 🎓 I study at Yildiz Technical University, Control and Automation Engineering Department.
+- 💻 I am Mobilab Project Member at Sky Lab
 - 🔭 I’m currently working on Flutter and NestJS.
 - 📌 I’m currently learning NestJS
 ### 📫 Connect with me
