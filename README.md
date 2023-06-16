@@ -36,13 +36,15 @@
 
 <img align="left" alt="NestJS" width="26px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/b80c079e-d2fa-4fe0-8de7-b616f955979b" />
 
-<img align="left" alt="Click Up" width="26px" src="https://user-images.githubusercontent.com/63793311/224952693-32ba46e9-2986-4c07-9fc0-4b3d63d1f12d.png" />
-
 <img align="left" alt="Firebase" width="26px" src="https://user-images.githubusercontent.com/63793311/224953044-7af36273-230f-407d-a963-ef58e3910da5.svg" />
 
 <img align="left" alt="Mongodb" width="26px" src="https://user-images.githubusercontent.com/63793311/224953214-2aa93362-4ac6-4636-9697-08fd9f019ff0.svg" />
 
-<img align="left" alt="Simulink" width="26px" src="https://user-images.githubusercontent.com/63793311/224953584-86074594-da86-4e25-9746-5a81ec758fba.png" />
+<!-- <img align="left" alt="MySQL" width="26px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/ab208346-c8d5-4860-9bc7-a7db334dccf3" />
+ -->
+<img align="left" alt="Click Up" width="26px" src="https://user-images.githubusercontent.com/63793311/224952693-32ba46e9-2986-4c07-9fc0-4b3d63d1f12d.png" />
+
+<img align="left" alt="Monday" width="26px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/62188e4f-f9e0-4057-a4b5-c20f4a89e804" /><!-- <img align="left" alt="Simulink" width="26px" src="https://user-images.githubusercontent.com/63793311/224953584-86074594-da86-4e25-9746-5a81ec758fba.png" /> -->
 
 <br />
 <br />
@@ -52,6 +54,7 @@
 <img align="left" alt="Dart" width="26px" src="https://user-images.githubusercontent.com/63793311/224953868-7c2cd7e3-d850-4ab8-804c-d12e578526eb.svg" />
 
 <img align="left" alt="Kotlin" width="26px" src="https://user-images.githubusercontent.com/63793311/224955557-b89f3b54-f05a-4b3e-bd84-7880fac5c91b.svg" />
+
 <img align="left" alt="Matlab" width="26px" src="https://www.mathworks.com/favicon.ico" />
 
 <img align="left" alt="C-sharp" width="26px" src="https://user-images.githubusercontent.com/63793311/224954278-b53e73c1-a2da-47cc-a205-7fc398415123.png" />
