@@ -18,8 +18,6 @@
 
 [<img align="left" alt="Behzodjon | Instagram" width="28px" src="https://user-images.githubusercontent.com/63793311/224951674-f546f07d-0248-4896-98be-88f318cf9a85.png" />](https://www.instagram.com/behzod.faiziev/)
 
-[<img align="left" alt="Behzodjon | Twitter" width="28px" src="https://user-images.githubusercontent.com/63793311/224951853-583baf41-5d4d-4d48-b183-0ecf6f29443c.svg" />](https://twitter.com/behzod_faiziev)
-
 <br />
 <br />
 
