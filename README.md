@@ -21,6 +21,18 @@
 <br />
 <br />
 
+### 🛠 DIY Channel
+[<img align="left" alt="YOUTUBE" width="28px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/7886983c-972c-42e8-a549-71cf97d56cce" />](https://www.youtube.com/@BHZDIY)
+
+[<img align="left" alt="BHZ DIY | Instagram" width="28px" src="https://user-images.githubusercontent.com/63793311/224951674-f546f07d-0248-4896-98be-88f318cf9a85.png" />](https://www.instagram.com/bhz.diy/)
+
+[<img align="left" alt="BHZ DIY | TikTok" width="28px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/d04fb6b4-53ed-4759-b0c2-698b9c78d194" />](https://www.tiktok.com/@bhz.diy/)
+
+
+
+<br />
+<br />
+
 ### Tools:
 <img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/63793311/224952284-c0731c64-05d7-4662-a377-e8d957735003.svg" />
 
@@ -69,3 +81,10 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=behzodfaiziev&theme=dark&background=101010)](https://git.io/streak-stats)
+
+With 3 years of experience in Flutter, I've honed my mobile app development skills to excellence. My journey led me to utilize Node.js and Nest.js creating seamless connections between apps and servers. As a Skylab team member, I've thrived on collaborative projects that constantly challenge and expand my expertise.
+
+Notably, I've participated twice in Teknofest in 2023, highlighting my dedication to innovation in technology. In addition to my software prowess, I've delved into WebRTC, enabling real-time communication capabilities in projects.
+
+My passion extends beyond code; I'm an enthusiast of robotics and electronics, bringing a multidimensional approach to my work. Recognizing the need for continuous growth, I've committed to becoming a Flutter expert to ensure I stay at the forefront of mobile app development.
+
