@@ -22,9 +22,9 @@
 <br />
 
 ### 🛠 DIY Channel
-[<img align="left" alt="YOUTUBE" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-227-498416.png" />](https://www.youtube.com/@BHZDIY)
+[<img align="left" alt="YOUTUBE" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-227-498416.png" />](https://www.youtube.com/@BHZDIY/shorts)
 
-[<img align="left" alt="BHZ DIY | Instagram" width="28px" src="https://user-images.githubusercontent.com/63793311/224951674-f546f07d-0248-4896-98be-88f318cf9a85.png" />](https://www.instagram.com/bhz.diy/shorts)
+[<img align="left" alt="BHZ DIY | Instagram" width="28px" src="https://user-images.githubusercontent.com/63793311/224951674-f546f07d-0248-4896-98be-88f318cf9a85.png" />](https://www.instagram.com/bhz.diy)
 
 
 [<img align="left" alt="BHZ DIY" width="28px" src="https://cdn.pixabay.com/photo/2022/02/09/08/24/tiktok-7002866_1280.png" />](https://www.tiktok.com/@bhz.diy/)
