@@ -3,7 +3,7 @@
 - 🎓 I study at Yildiz Technical University, Control and Automation Engineering Department.
 - 💻 I am Mobilab Project Member at Sky Lab
 - 🔭 I’m currently working on Flutter and NestJS.
-- 📌 I’m currently learning NestJS
+- 📌 I’m currently learning Spring Boot
 ### 📫 Connect with me
 [<img align="left" alt="Behzodjon | LinkedIn" width="28px" src="https://user-images.githubusercontent.com/63793311/224949784-8985216a-7c7f-484b-be2a-2e05d2ee9e04.png" />](https://www.linkedin.com/in/behzod-faiziev/)
 
@@ -43,7 +43,10 @@
 
 <img align="left" alt="CodeMagic" width="26px" src="https://user-images.githubusercontent.com/63793311/224956204-cbd9eed3-6347-43b1-a39c-e66cba657c12.jpg" />
 
-<img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/63793311/224951081-a9e768e8-7daf-47dc-b749-0fadc89ab410.svg" />
+<img align="left" alt="Spring Boot" width="26px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/066ca831-0c2f-4462-98d4-948b1a2e7d63" />
+
+
+<!-- <img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/63793311/224951081-a9e768e8-7daf-47dc-b749-0fadc89ab410.svg" /> -->
 
 <img align="left" alt="NestJS" width="26px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/b80c079e-d2fa-4fe0-8de7-b616f955979b" />
 
@@ -64,16 +67,17 @@
 
 <img align="left" alt="Dart" width="26px" src="https://user-images.githubusercontent.com/63793311/224953868-7c2cd7e3-d850-4ab8-804c-d12e578526eb.svg" />
 
+<img align="left" alt="Java" width="26px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/73ca15ca-88a0-4114-8de6-21de8837169d" />
+
 <img align="left" alt="Kotlin" width="26px" src="https://user-images.githubusercontent.com/63793311/224955557-b89f3b54-f05a-4b3e-bd84-7880fac5c91b.svg" />
 
 <img align="left" alt="Matlab" width="26px" src="https://www.mathworks.com/favicon.ico" />
 
 <img align="left" alt="C-sharp" width="26px" src="https://user-images.githubusercontent.com/63793311/224954278-b53e73c1-a2da-47cc-a205-7fc398415123.png" />
 
-<img align="left" alt="Typescript" width="26px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/824c36d0-9286-4880-9a47-306b2ebce1e5" />
+<img align="left" alt="Typescript" width="26px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/824c36d0-9286-4880-9a47-306b2ebce1e5" /> 
 
-<img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/63793311/224954488-9645a19a-b081-4cd0-ae1f-f768006c9316.png" />
-
+<!-- <img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/63793311/224954488-9645a19a-b081-4cd0-ae1f-f768006c9316.png" />  -->
 
 
 <br />
