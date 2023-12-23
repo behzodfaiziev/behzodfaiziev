@@ -1,10 +1,9 @@
-## Hi there, I'm Behzod Faiziev 👋
+
+<!-- ## Hi there, I'm Behzod Faiziev 👋
 
 - 🎓 I study at YTÜ, Control and Automation Engineering
-- 💻 I am CTO at Jurnalle
 - 🔭 I’m currently working on Flutter and Spring Boot
-
-### 📫 Connect with me
+ ### 📫 Connect with me
 [<img align="left" alt="Behzodjon | LinkedIn" width="28px" src="https://user-images.githubusercontent.com/63793311/224949784-8985216a-7c7f-484b-be2a-2e05d2ee9e04.png" />](https://www.linkedin.com/in/behzod-faiziev/)
 
 
@@ -20,20 +19,6 @@
 
 <br />
 <br />
-
-### 🛠 DIY Channel
-[<img align="left" alt="YOUTUBE" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-227-498416.png" />](https://www.youtube.com/@BHZDIY/shorts)
-
-[<img align="left" alt="BHZ DIY | Instagram" width="28px" src="https://user-images.githubusercontent.com/63793311/224951674-f546f07d-0248-4896-98be-88f318cf9a85.png" />](https://www.instagram.com/bhz.diy)
-
-
-[<img align="left" alt="BHZ DIY" width="28px" src="https://cdn.pixabay.com/photo/2022/02/09/08/24/tiktok-7002866_1280.png" />](https://www.tiktok.com/@bhz.diy/)
-
-
-
-<br />
-<br />
-
 ### Tools:
 <img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/63793311/224952284-c0731c64-05d7-4662-a377-e8d957735003.svg" />
 
@@ -46,7 +31,7 @@
 <img align="left" alt="Spring Boot" width="26px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/066ca831-0c2f-4462-98d4-948b1a2e7d63" />
 
 
-<!-- <img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/63793311/224951081-a9e768e8-7daf-47dc-b749-0fadc89ab410.svg" /> -->
+ <img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/63793311/224951081-a9e768e8-7daf-47dc-b749-0fadc89ab410.svg" />
 
 <img align="left" alt="NestJS" width="26px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/b80c079e-d2fa-4fe0-8de7-b616f955979b" />
 
@@ -54,14 +39,16 @@
 
 <img align="left" alt="Mongodb" width="26px" src="https://user-images.githubusercontent.com/63793311/224953214-2aa93362-4ac6-4636-9697-08fd9f019ff0.svg" />
 
-<!-- <img align="left" alt="MySQL" width="26px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/ab208346-c8d5-4860-9bc7-a7db334dccf3" />
- -->
+<img align="left" alt="MySQL" width="26px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/ab208346-c8d5-4860-9bc7-a7db334dccf3" />
+
 <img align="left" alt="Click Up" width="26px" src="https://user-images.githubusercontent.com/63793311/224952693-32ba46e9-2986-4c07-9fc0-4b3d63d1f12d.png" />
 
-<img align="left" alt="Monday" width="26px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/62188e4f-f9e0-4057-a4b5-c20f4a89e804" /><!-- <img align="left" alt="Simulink" width="26px" src="https://user-images.githubusercontent.com/63793311/224953584-86074594-da86-4e25-9746-5a81ec758fba.png" /> -->
+<img align="left" alt="Monday" width="26px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/62188e4f-f9e0-4057-a4b5-c20f4a89e804" />
+<img align="left" alt="Simulink" width="26px" src="https://user-images.githubusercontent.com/63793311/224953584-86074594-da86-4e25-9746-5a81ec758fba.png" /> 
 
 <br />
 <br />
+
 
 ### Languages:
 
@@ -77,19 +64,8 @@
 
 <img align="left" alt="Typescript" width="26px" src="https://github.com/behzodfaiziev/behzodfaiziev/assets/63793311/824c36d0-9286-4880-9a47-306b2ebce1e5" /> 
 
-<!-- <img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/63793311/224954488-9645a19a-b081-4cd0-ae1f-f768006c9316.png" />  -->
-
-
-<br />
-<br />
-<br />
-
+<img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/63793311/224954488-9645a19a-b081-4cd0-ae1f-f768006c9316.png" /> 
+--> 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=behzodfaiziev&theme=dark&background=101010)](https://git.io/streak-stats)
-
-With 3 years of experience in Flutter, I've honed my mobile app development skills to excellence. My journey led me to utilize Node.js and Nest.js creating seamless connections between apps and servers. As a Skylab team member, I've thrived on collaborative projects that constantly challenge and expand my expertise.
-
-Notably, I've participated twice in Teknofest in 2023, highlighting my dedication to innovation in technology. In addition to my software prowess, I've delved into WebRTC, enabling real-time communication capabilities in projects.
-
-My passion extends beyond code; I'm an enthusiast of robotics and electronics, bringing a multidimensional approach to my work. Recognizing the need for continuous growth, I've committed to becoming a Flutter expert to ensure I stay at the forefront of mobile app development.
 
