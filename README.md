@@ -1,4 +1,4 @@
-
+#### Success is the ability to go from one failure to another with no loss of enthusiasm. "- Winston Churchill“
 <!-- ## Hi there, I'm Behzod Faiziev 👋
 
 - 🎓 I study at YTÜ, Control and Automation Engineering
