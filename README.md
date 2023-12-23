@@ -1,7 +1,7 @@
 ## Hi there, I'm Behzod Faiziev 👋
 
-- 🎓 I study at Yildiz Technical University, Control and Automation Engineering Department.
-- 💻 I am Mobilab Project Member at Sky Lab
+- 🎓 I study at YTÜ, Control and Automation Engineering
+- 💻 I am CTO at Jurnalle
 - 🔭 I’m currently working on Flutter and Spring Boot
 
 ### 📫 Connect with me
