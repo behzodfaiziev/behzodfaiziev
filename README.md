@@ -67,5 +67,5 @@
 <img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/63793311/224954488-9645a19a-b081-4cd0-ae1f-f768006c9316.png" /> 
 --> 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=behzodfaiziev&theme=dark&background=101010)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=behzodfaiziev&theme=dark&background=101010)](https://git.io/streak-stats) -->
 
