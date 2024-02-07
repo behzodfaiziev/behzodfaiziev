@@ -1,5 +1,8 @@
-#### Success is the ability to go from one failure to another with no loss of enthusiasm. "- Winston Churchill“
-#### He who does not take risks does not drink champagne
+## He who does not take risks does not drink champagne
+
+### Success is the ability to go from one failure to another with no loss of enthusiasm.  "- Winston Churchill"
+
+
 <!-- ## Hi there, I'm Behzod Faiziev 👋
 
 - 🎓 I study at YTÜ, Control and Automation Engineering
