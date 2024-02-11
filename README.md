@@ -2,6 +2,7 @@
 
 ### Success is the ability to go from one failure to another with no loss of enthusiasm.  "- Winston Churchill"
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=behzodfaiziev&theme=dark&background=101010)](https://git.io/streak-stats)
 
 <!-- ## Hi there, I'm Behzod Faiziev 👋
 
@@ -71,5 +72,4 @@
 <img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/63793311/224954488-9645a19a-b081-4cd0-ae1f-f768006c9316.png" /> 
 --> 
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=behzodfaiziev&theme=dark&background=101010)](https://git.io/streak-stats) -->
 
