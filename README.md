@@ -3,7 +3,7 @@
 He who does not take risks does not drink champagne
 Success is the ability to go from one failure to another with no loss of enthusiasm.  "- Winston Churchill"
 ```
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=behzodfaiziev&theme=dark&background=101010)](https://git.io/streak-stats) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=behzodfaiziev&theme=dark&background=101010)](https://git.io/streak-stats) 
 
 <!-- ## Hi there, I'm Behzod Faiziev 👋
 
